@@ -8,7 +8,7 @@ A modern, high-performance Weather Application built with **React.js** and **Vit
 
 ## 🚀 Live Demo & Repository
 
-- **Live Demo**: [Deploy to Vercel/Netlify](https://weather-wise-app.vercel.app) *(Replace with your live deployment URL)*
+- **Live Demo**: [Deploy to Vercel/Netlify](celadon-melomakarona-2cec58.netlify.app) 
 - **GitHub Repository**: [GitHub Link](https://github.com/your-username/weatherwise-react)
 
 ---
