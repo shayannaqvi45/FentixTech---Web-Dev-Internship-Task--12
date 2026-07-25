@@ -9,7 +9,7 @@ A modern, high-performance Weather Application built with **React.js** and **Vit
 ## 🚀 Live Demo & Repository
 
 - **Live Demo**: [Deploy to Vercel/Netlify](celadon-melomakarona-2cec58.netlify.app) 
-- **GitHub Repository**: [GitHub Link](https://github.com/your-username/weatherwise-react)
+- **GitHub Repository**: [GitHub Link]([https://github.com/your-username/weatherwise-react](https://github.com/shayannaqvi45/FentixTech---Web-Dev-Internship-Task--12.git))
 
 ---
 
@@ -115,14 +115,8 @@ npm run build
 ```
 This generates a production-ready `dist/` bundle optimized for deployment.
 
-### Deploying to Vercel
-1. Push your repository to GitHub.
-2. Log in to [Vercel](https://vercel.com).
-3. Select **"Add New Project"** -> import your GitHub repository.
-4. Keep standard settings (Framework preset: Vite) and click **Deploy**.
-
 ### Deploying to Netlify
-1. Log in to [Netlify](https://netlify.com).
+1. Log in to [Netlify](celadon-melomakarona-2cec58.netlify.app).
 2. Drag and drop the `dist/` directory or connect your GitHub repository.
 3. Set build command to `npm run build` and publish directory to `dist`.
 
